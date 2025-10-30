@@ -2,7 +2,7 @@
 Moj prvi github repozitorij
 
 ## Uvod u Markdown
-Pogledaj .[Licenca].[LICENCE].
+Pogledaj .[Licenca](Licence).
 
 ### Osnove Git-a i GitHub-a
 [Ovdje].(https://merlin.srce.hr). možete saznati više o Git tehnologiji.
